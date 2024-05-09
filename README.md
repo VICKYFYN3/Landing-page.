@@ -58,3 +58,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for choosing Veracite for your coding education journey. We're excited to accompany you on your path to mastering programming and unlocking new opportunities!
+To access the Veracite project on GitHub, visit [https://github.com/vickyfyn3/veracite](https://github.com/vickyfyn3/Landing-page.).
