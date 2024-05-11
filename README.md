@@ -49,7 +49,7 @@ We welcome contributions from the community to help improve Veracite and make it
 
 ## Feedback and Support
 
-At Veracite, we're committed to providing the best possible learning experience for our users. Your feedback is invaluable to us, so please don't hesitate to reach out with any questions, comments, or concerns. Whether you need assistance with course content, encounter technical difficulties, or have suggestions for improvement, our support team is here to help. You can contact us through our website or send us an email at [vfokezie@gmail.com](mailto: vfokezie@gmail.com).
+At Veracite, we're committed to providing the best possible learning experience for our users. Your feedback is invaluable to us, so please don't hesitate to reach out with any questions, comments, or concerns. Whether you need assistance with course content, encounter technical difficulties, or have suggestions for improvement, our support team is here to help. You can contact us through our website or send us an email at vfokezie@gmail.com
 
 ## License
 
